@@ -22,8 +22,4 @@ public class Book {
      */
     public void statusIndicating;
 
-
-
-
-
 }

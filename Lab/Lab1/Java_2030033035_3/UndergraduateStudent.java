@@ -12,5 +12,4 @@ public class UndergraduateStudent extends Student {
     public UndergraduateStudent() {
     }
 
-
 }

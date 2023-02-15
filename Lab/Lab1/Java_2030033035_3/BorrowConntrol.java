@@ -4,12 +4,12 @@ import java.util.*;
 /**
  * 
  */
-public class GraduateStudent extends Student {
+public class BorrowConntrol {
 
     /**
      * Default constructor
      */
-    public GraduateStudent() {
+    public BorrowConntrol() {
     }
 
 }
