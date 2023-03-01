@@ -17,7 +17,7 @@ public class TimeTable {
 					System.out.print(" "+mul);
 				}
 			}
-			System.out.print(" \n");			// One row print finished.
+			System.out.print(" \n"); // One row print finished.
 		}
 	}
 
